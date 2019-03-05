@@ -1,0 +1,11 @@
+h1{
+display:flex;
+justify-content:center;
+background-color:gold;
+}
+ img{
+     width:400px;
+     border-radius:10px;
+     border-style:ridge;
+     border-color:skyblue;
+ }
